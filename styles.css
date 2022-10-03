@@ -1,0 +1,51 @@
+
+body{
+    margin: 0px;
+    margin-top: 0px;
+    background-color:#222831;
+}
+
+/* heading */
+
+.Heading{
+
+    font-family: "Montserrat-bold";
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #00ADB5;background-color:#222831;padding-top: 0px;
+    padding-bottom:2% ;
+    padding-top: 2%;
+    margin-top: 0px;
+
+}
+
+#heads{
+    background-color: #222831;
+    
+}
+
+/* gaming-section */
+#gaming-zone{
+    background-color: #EEEEEE;
+
+}
+.game{
+    font-size: 1.8rem;
+    background-color:#00ADB5;
+    color:#222831 ;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-family: "Ubuntu";
+    text-align: left;
+    margin-top: 0px;
+    
+}
+h3{
+    font-family:monospace;
+    font-weight: bold;
+    text-align: center;
+}
+.players{
+    text-align: center;
+}
